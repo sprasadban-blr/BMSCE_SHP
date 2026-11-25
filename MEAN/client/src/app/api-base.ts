@@ -2,7 +2,7 @@
   Localhost: empty string so HttpClient uses /api and proxy.conf.json.
   Module 6 (Vercel): paste your API project URL (no trailing slash) into PRODUCTION_API.
 */
-const PRODUCTION_API = "";
+const PRODUCTION_API = "https://bmsce-shp.vercel.app";
 
 export const API_BASE =
   typeof location !== "undefined" &&
