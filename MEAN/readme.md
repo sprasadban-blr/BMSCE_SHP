@@ -14,7 +14,7 @@ Express (port 3000)
     →  MongoDB greencampus.issues
 ```
 
-## Files in this folder
+## Files in this folder contains HTML/CSS/JS
 
 | Path | Role |
 | --- | --- |
